@@ -82,3 +82,6 @@ To initiale a chat with the trained model:
 ```
 python run.py chat
 ```
+
+# O/P
+![image](https://github.com/user-attachments/assets/acc8db58-2bed-4d86-bf97-c5ff067cdddb)
